@@ -1,0 +1,8 @@
+Total number of users: 5
+Total number of tasks: 1
+User: admin
+Total number of tasks assigned: 1
+Percentage of total tasks: 100.00%
+Percentage of tasks completed: 0.00% if num_user_tasks > 0 else 0.00%
+Percentage of tasks incomplete: 100.00% if num_user_tasks > 0 else 0.00%
+Percentage of tasks overdue: 100.00% if num_user_tasks > 0 else 0.00%
